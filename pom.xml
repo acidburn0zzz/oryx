@@ -570,7 +570,7 @@
     <koloboke.version>1.0.0</koloboke.version>
     <netlib.java.version>1.1.2</netlib.java.version>
     <slf4j.version>1.7.25</slf4j.version>
-    <snappy.version>1.1.2.6</snappy.version>
+    <snappy.version>1.1.10.1</snappy.version>
     <spark.version>2.2.0</spark.version>
     <surefire.version>2.20.1</surefire.version>
     <tomcat.version>8.5.23</tomcat.version>
